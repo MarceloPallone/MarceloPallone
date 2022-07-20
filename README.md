@@ -1,7 +1,5 @@
-##Olá !!  Sou Marcelo Pallone.
-- 🌱 Estudando JavaScript,HTML5,CSS3,ReactJS e NodeJs.
-- 🤔 Busco o meu primeiro estágio relacionado a desenvolvimento.
-- 📫 contate-me no E-mail:marcelopalloninho@hotmail.com
+##Olá Sou Marcelo Pallone!!
+##
 <div align="center">
   <a href="https://github.com/MarceloPallone">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloPallone&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
